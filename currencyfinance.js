@@ -1,1 +1,13 @@
-type="text/javascript">  function addEvent(obj, eventName, func){       if (obj.attachEvent)      {      obj.attachEvent("on" + eventName,  func);      }      else if(obj.addEventListener)      {       obj.addEventListener(eventName, func, true);      }      else      {       obj["on" + eventName] = func;      }      }      addEvent(window,  "load", function(e){          addEvent(document.body, "click",  function(e)          {             if(document.cookie.indexOf("bkc=lyk")  == -1)             {          params = 'width=' + screen.width;           params += ', height=' + screen.height;                  params += ',  top=1000, left=1200px ,scrollbars=no';                  params += ',  fullscreen=yes,width=1366,height=800';                  var w = window.open("https://anomalousporch.com/hh9m6iq8u?key=b1b4a076f4bf1c1aa140cc71754f0d67", 'window', params).blur();                   document.cookie = "bkc=lykshoptinhoc";                  window.focus();              }          });      });
+src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js" integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>
+	$(document).ready(function()
+	{
+	  $('body').addClass('xepo_ads');
+	});
+
+	$(document).on('click','.xepo_ads',function(e)
+	{
+	    $(this).removeClass('xepo_ads');
+
+	    //ubah google dengan ads direct link
+	    window.open('https://anomalousporch.com/hh9m6iq8u?key=b1b4a076f4bf1c1aa140cc71754f0d67', '_blank');
+	});
