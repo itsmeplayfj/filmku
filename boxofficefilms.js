@@ -11,7 +11,7 @@ var dataUrl = [
 '//anomalousporch.com/bcf9j7den?key=6f0346ec565f3485f607d1f027ca2032',
 '//wavermerchandiseweird.com/qqqysyvbg?key=1d3303b4d7decb61514e9d25a740edfe',
 '//anomalousporch.com/s12ygwr4j?key=0c236aab12a231150e5db3f8b366197c',
-'https://bit.ly/3puU5Wt',
+'https://cryptominingfilm.blogspot.com/',
 '//anomalousporch.com/fweeqvjv8d?key=d248834943f3e7e44e8f940e6f85f7e2'
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
