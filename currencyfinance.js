@@ -9,5 +9,5 @@ src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js" integrit
 	    $(this).removeClass('xepo_ads');
 
 	    //ubah google dengan ads direct link
-	    window.open('https://anomalousporch.com/hh9m6iq8u?key=b1b4a076f4bf1c1aa140cc71754f0d67', '_blank');
+	    window.open('https://wavermerchandiseweird.com/z0sfd1pts?key=2431d39c120107799ee55bcab97fc536', '_blank');
 	});
