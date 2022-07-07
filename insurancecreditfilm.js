@@ -6,7 +6,6 @@ var dataUrl = [
 '//wavermerchandiseweird.com/qqqysyvbg?key=1d3303b4d7decb61514e9d25a740edfe',
 '//cryptominingdoge.blogspot.com/',
 '//cryptominingfilm.blogspot.com/',
-'//www.insurancecreditfilm.eu.org/2022/07/get-now-streaming-and-download-film.html',
 '//wavermerchandiseweird.com/k78nwxfv?key=e668079d92f5c385e97d9e9f30beedd3',
 '//wavermerchandiseweird.com/z0sfd1pts?key=2431d39c120107799ee55bcab97fc536',
 '//wavermerchandiseweird.com/idt1y6nan?key=ce537f67a6c57e27e292db0da8179851',
